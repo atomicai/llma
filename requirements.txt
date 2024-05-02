@@ -1,4 +1,5 @@
 torch==2.2.2
+transformers==4.40.1
 tokenizers==0.19.1
 weaviate-client==4.5.4
 simplejson==3.19.2
